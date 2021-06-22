@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/montserrat</item>
+        <item>@font/nova_flat</item>
+        <item>@font/nova_square</item>
+    </array>
+</resources>
